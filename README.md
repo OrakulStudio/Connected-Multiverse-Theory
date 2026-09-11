@@ -191,7 +191,7 @@ jupyter notebook predictions/cmb_anomalies_explained.ipynb
 - Hatcher (2002): *Algebraic Topology*
 
 ### GCMT Specific
-- **Orakul, R., Gemini AI, Claude AI (2026)** *(This work)*
+- **Orakul, R.(2026)** *(This work)*
 
 ---
 
