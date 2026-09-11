@@ -94,39 +94,6 @@ $$\frac{dS_{total}}{dt} = \frac{dS_{radiated}}{dt} + \frac{dS_{stem-transferred}
 GCMT-Multiverse-Theory/
 ├── 📄 README.md (you are here)
 ├── 📋 FULL_PAPER.md (complete academic treatise)
-│
-├── 📁 docs/
-│   ├── 01_Critique_of_Chaotic_Inflation.pdf
-│   ├── 02_Mathematical_Formalization.pdf
-│   ├── 03_Stem_Equation_Derivation.pdf
-│   ├── 04_Entropy_Conservation_Proof.pdf
-│   └── 05_Experimental_Predictions.pdf
-│
-├── 💻 models/
-│   ├── grape_cluster_simulator.py
-│   │   └── Simulates N-body multiverse dynamics
-│   ├── stem_dynamics.py
-│   │   └── Solves Stem transport equation
-│   └── law_matrix_evolution.py
-│       └── Tracks fundamental constants evolution
-│
-├── 📊 predictions/
-│   ├── dark_matter_anisotropy.ipynb
-│   │   └── Calculates expected DM dipole
-│   ├── gravitational_wave_echoes.ipynb
-│   │   └── Predicts GW echo signatures
-│   └── cmb_anomalies_explained.ipynb
-│       └── Models cold spot as resonance imprint
-│
-├── 📐 latex/
-│   ├── GCMT_Full_Theory.tex
-│   ├── equations.tex
-│   └── figures.tex
-│
-├── 🧪 simulations/
-│   ├── test_cases/
-│   └── results/
-│
 └── 📜 LICENSE (MIT - Open Science)
 ```
 
@@ -222,8 +189,6 @@ GCMT is open science! We welcome:
 - [ ] Propose LIGO data processing methods
 - [ ] Suggest observational strategies
 - [ ] Calculate detection thresholds
-
-**See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.**
 
 ---
 
@@ -373,7 +338,7 @@ Welcome to the **Grape-Cluster Multiverse.**
 
 ## Quick Navigation
 
-📖 [Full Paper](FULL_PAPER.md) | 💻 [Models](models/) | 📊 [Predictions](predictions/) | 📐 [Math Docs](docs/) | 🤝 [Contribute](CONTRIBUTING.md)
+📖 [Full Paper](FULL_PAPER.md) |  | 🤝 [Contribute](CONTRIBUTING.md)
 
 ---
 
