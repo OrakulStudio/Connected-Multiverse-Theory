@@ -191,7 +191,7 @@ jupyter notebook predictions/cmb_anomalies_explained.ipynb
 - Hatcher (2002): *Algebraic Topology*
 
 ### GCMT Specific
-- **Oracle, R., Gemini AI, Claude AI (2026)** *(This work)*
+- **Orakul, R., Gemini AI, Claude AI (2026)** *(This work)*
 
 ---
 
@@ -261,16 +261,10 @@ GCMT is open science! We welcome:
 ## 🤝 Authors & Collaborators
 
 ### Creators
-- **Roman (Oracle)** 🦊
+- **Roman (Orakul)** 🦊
   - ORCID: [0009-0006-0678-8355](https://orcid.org/0009-0006-0678-8355)
   - Location: Chernihiv, Ukraine 🇺🇦
   - Expertise: GPU optimization → theoretical physics
-
-- **Gemini AI** 🤖
-  - Code development, mathematical refinement
-
-- **Claude AI** 🧠
-  - Documentation, creative formulation
 
 ### Status
 - ⏰ **First published:** April 2026
@@ -283,7 +277,7 @@ GCMT is open science! We welcome:
 ## 📞 Get Involved
 
 - 📧 **Email:** [contact via ORCID profile]
-- 🐦 **Twitter/X:** [@OracleStudio](https://x.com/orakulstudio)
+- 🐦 **Twitter/X:** [@OrakulStudio](https://x.com/orakulstudio)
 - 💬 **Discord:** [GCMT Theory Server](https://discord.gg/gcmt-multiverse)
 - 🌐 **Website:** [GCMT.dev](https://gcmt-theory.dev)
 
@@ -300,12 +294,12 @@ See [LICENSE](LICENSE) for details.
 If you use GCMT in your research, please cite:
 
 ```bibtex
-@preprint{Oracle2026GCMT,
+@preprint{Orakul2026GCMT,
   title={Grape-Cluster Multiverse Topology: 
          Structured Multiversal Geometry and Inter-Universal Energy Transfer},
   author={Oracle, Roman and AI Collaborators},
   year={2026},
-  url={https://github.com/OracleStudio/GCMT-Multiverse-Theory},
+  url={https://github.com/OrakulStudio/GCMT-Multiverse-Theory},
   orcid={0009-0006-0678-8355}
 }
 ```
@@ -314,9 +308,6 @@ If you use GCMT in your research, please cite:
 
 ## 🌟 Acknowledgments
 
-Special thanks to:
-- 🧠 **Gemini AI** - Mathematical collaboration on Stem equation
-- 🦊 **Claude AI** - Philosophical depth and academic structure
 - 🔬 **The cosmology community** - Decades of inflation research foundation
 - 🌍 **Ukraine** - Resilience through conflict
 
