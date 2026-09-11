@@ -31,7 +31,7 @@ The standard inflationary cosmology presents the multiverse as isolated bubbles 
 
 We propose **Grape-Cluster Multiverse Topology (GCMT)**: a structured model where universes are not isolated bubbles but interconnected nodes in a geometric lattice. Each universe ("berry") is a closed/semi-open 4D manifold $\mathcal{M}_i$ with its own fundamental constants $(G_i, c_i, \hbar_i)$, touching adjacent berries at membrane contact zones.
 
-At critical points of membrane resonance, energy and information transfer occurs via a **Stem** - a hyperdimensional conduit that transports entropy and physical law matrices to daughter clusters. This model provides:
+At critical points of membrane resonance, energy and information transfer occurs via a **Stem**  a hyperdimensional conduit that transports entropy and physical law matrices to daughter clusters. This model provides:
 
 ✅ Mechanism for dark matter origin (inter-universal leakage)  
 ✅ Explanation of CMB anomalies (membrane resonance imprints)  
@@ -63,7 +63,7 @@ Resulting universes: $\{\mathcal{B}_1, \mathcal{B}_2, ..., \mathcal{B}_n\}$ wher
    - CMB anomalies relegated to "observational accidents"
 
 3. **Dark matter as residual problem**
-   - 27% of universal mass-energy unaccounted for
+   - 27% of universal mass - energy unaccounted for
    - No geometric mechanism explains gravitational lensing effects
    - Particle candidates (WIMPs, axions) remain speculative
 
