@@ -2,6 +2,12 @@
 
 ### *A Novel Framework for Structured Multiversal Geometry and Inter-Universal Energy Transfer*
 
+# 🌌 Connected Multiverse Theory (GCMT)
+
+> # 📖 [👉 READ THE FULL TREATISE / ЧИТАТЬ ПОЛНУЮ ВЕРСИЮ (FULL_PAPER.md)](FULL_PAPER.md)
+> ** Complete mathematical formalization, Stem equations, and proofs are inside `FULL_PAPER.md`.**
+
+---
 ---
 
 ## 🎯 Quick Summary
@@ -140,7 +146,7 @@ cat FULL_PAPER.md | less
 
 ## 💡 Philosophy
 
-> "The universe is not a soap bubble in chaos. It is a grape cluster—each universe a berry, connected through resonant membranes, generating daughters through structured Stems. We are not isolated; we are part of an interconnected, generative cosmos."
+> "The universe is not a soap bubble in chaos. It is a grape cluster - each universe a berry, connected through resonant membranes, generating daughters through structured Stems. We are not isolated; we are part of an interconnected, generative cosmos."
 
 ### From Chaos to Structure
 
@@ -205,7 +211,7 @@ If you use GCMT in your research, please cite:
 @preprint{Orakul2026GCMT,
   title={Grape-Cluster Multiverse Topology: 
          Structured Multiversal Geometry and Inter-Universal Energy Transfer},
-  author={Orakul, Roman and AI Collaborators},
+  author={Orakul, Roman},
   year={2026},
   url={https://github.com/OrakulStudio/GCMT-Multiverse-Theory},
   orcid={0009-0006-0678-8355}
