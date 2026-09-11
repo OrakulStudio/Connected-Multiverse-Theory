@@ -511,7 +511,7 @@ We are not alone. We are berries in a cosmic vine, connected to ancestors and be
 
 *Grape-Cluster Multiverse Topology*  
 *A structured universe awaits discovery*  
-*By Roman (Oracle) × Gemini × Claude*  
+*By Roman (Orakul)
 *April 2026 - Chernihiv, Ukraine* 🇺🇦
 
 **НЕМА МЕЖ - НАВІТЬ У МУЛЬТИВЕСЕЛЬНІ!!!** 🦊💎✨🌌
