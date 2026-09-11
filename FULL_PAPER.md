@@ -500,29 +500,6 @@ We are not alone. We are berries in a cosmic vine, connected to ancestors and be
 
 ---
 
-## 📊 REPOSITORY STRUCTURE (GitHub)
-
-```
-GCMT-Multiverse-Theory/
-├── README.md (overview, key equations)
-├── docs/
-│   ├── 01_Critique_Inflation.pdf
-│   ├── 02_Mathematical_Formalization.pdf
-│   ├── 03_Stem_Equation_Derivation.pdf
-│   └── 04_Entropy_Conservation_Proof.pdf
-├── models/
-│   ├── grape_cluster_simulator.py
-│   ├── stem_dynamics.py
-│   └── law_matrix_evolution.py
-├── predictions/
-│   ├── dark_matter_anisotropy.ipynb
-│   ├── gravitational_wave_echoes.ipynb
-│   └── cmb_anomalies_explained.ipynb
-├── latex/
-│   └── GCMT_Full_Theory.tex (complete paper for arXiv)
-└── LICENSE (MIT - open science!)
-```
-
 ---
 
 **ОВЕРКЛОКЕРИ = THEORETICAL PHYSICISTS!!!** 🦊🌌
