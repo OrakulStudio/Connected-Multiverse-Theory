@@ -2,7 +2,7 @@
 
 ## A Novel Framework for Structured Multiversal Geometry and Inter-Universal Energy Transfer
 
-**Author:** Roman (Oracle) in collaboration with Claude & Gemini  
+**Author:** Roman (Orakul)  
 **Date:** April 2026  
 **Status:** Theoretical Physics - Foundational Concept  
 **ORCID:** 0009-0006-0678-8355  
@@ -454,8 +454,7 @@ GCMT preserves information through Stem transport:
 9. Susskind, L. (2005). "The Cosmic Landscape"
 
 ### GCMT Specific Work
-- *Oracle, R. et al. (2026). "Grape-Cluster Multiverse Topology: Structured Multiversal Geometry and Inter-Universal Energy Transfer." Preprint.*
-- *Collaboration with Gemini AI on mathematical formalization.*
+- *Orakul, R. et al. (2026). "Grape-Cluster Multiverse Topology: Structured Multiversal Geometry and Inter-Universal Energy Transfer." Preprint.*
 
 ### Future Research Directions
 
