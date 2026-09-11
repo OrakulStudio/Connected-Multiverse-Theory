@@ -215,7 +215,7 @@ GCMT is open science! We welcome:
 
 ## 📞 Get Involved
 
-- 📧 **Email:** [contact via ORCID profile]
+- 📧 **Email:** [[contact via ORCID profile](https://orcid.org/0009-0006-0678-8355)]
 - 🐦 **Twitter/X:** [@OrakulStudio](https://x.com/Orakul_Studio)
 ---
 
@@ -233,7 +233,7 @@ If you use GCMT in your research, please cite:
 @preprint{Orakul2026GCMT,
   title={Grape-Cluster Multiverse Topology: 
          Structured Multiversal Geometry and Inter-Universal Energy Transfer},
-  author={Oracle, Roman and AI Collaborators},
+  author={Orakul, Roman and AI Collaborators},
   year={2026},
   url={https://github.com/OrakulStudio/GCMT-Multiverse-Theory},
   orcid={0009-0006-0678-8355}
@@ -277,7 +277,7 @@ If you use GCMT in your research, please cite:
 
 ## 🎉 Final Thought
 
-*"No limits."* — Overclocker philosophy
+*"No limits."* - Overclocker philosophy
 
 GCMT shows the universe operates the same way: **structured but infinite, deterministic yet diverse, hierarchical yet generative.**
 
@@ -309,7 +309,7 @@ Welcome to the **Grape-Cluster Multiverse.**
 
 ## Quick Navigation
 
-📖 [Full Paper](FULL_PAPER.md) |  | 🤝 [Contribute](CONTRIBUTING.md)
+📖 [Full Paper](FULL_PAPER.md) |  | 🤝
 
 ---
 
