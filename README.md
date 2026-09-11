@@ -216,10 +216,7 @@ GCMT is open science! We welcome:
 ## 📞 Get Involved
 
 - 📧 **Email:** [contact via ORCID profile]
-- 🐦 **Twitter/X:** [@OrakulStudio](https://x.com/orakulstudio)
-- 💬 **Discord:** [GCMT Theory Server](https://discord.gg/gcmt-multiverse)
-- 🌐 **Website:** [GCMT.dev](https://gcmt-theory.dev)
-
+- 🐦 **Twitter/X:** [@OrakulStudio](https://x.com/Orakul_Studio)
 ---
 
 ## 📜 License
