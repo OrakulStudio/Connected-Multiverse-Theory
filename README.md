@@ -136,34 +136,6 @@ cat FULL_PAPER.md | less
 
 ---
 
-## 🎓 How to Contribute
-
-GCMT is open science! We welcome:
-
-### 🔬 Research Contributions
-- [ ] Refine Stem equation derivations
-- [ ] Extend to higher-dimensional berries
-- [ ] Develop quantum field theory formalism
-- [ ] Prove entropy conservation rigorously
-
-### 💻 Code Contributions
-- [ ] Improve simulators (efficiency, accuracy)
-- [ ] Add visualization tools
-- [ ] Develop numerical solvers
-- [ ] Create data analysis pipelines
-
-### 📝 Documentation
-- [ ] Translate papers to other languages
-- [ ] Create tutorial notebooks
-- [ ] Write conceptual guides for non-experts
-- [ ] Generate visualization diagrams
-
-### 📊 Experimental Design
-- [ ] Design CMB analysis protocols
-- [ ] Propose LIGO data processing methods
-- [ ] Suggest observational strategies
-- [ ] Calculate detection thresholds
-
 ---
 
 ## 💡 Philosophy
