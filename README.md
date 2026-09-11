@@ -114,32 +114,6 @@ cat FULL_PAPER.md | less
 # - Section 7: Experimental Predictions
 ```
 
-### 2. Run Simulations
-
-```bash
-# Simulate grape-cluster replication
-python models/grape_cluster_simulator.py --generations 5 --universes-per-berry 1000
-
-# Solve Stem transport equation
-python models/stem_dynamics.py --initial-energy 1e10 --time-steps 10000
-
-# Track how physics evolves across generations
-python models/law_matrix_evolution.py --mutation-rate 0.001
-```
-
-### 3. Generate Predictions
-
-```bash
-# Dark matter anisotropy
-jupyter notebook predictions/dark_matter_anisotropy.ipynb
-
-# Gravitational wave signatures
-jupyter notebook predictions/gravitational_wave_echoes.ipynb
-
-# CMB cold spot model
-jupyter notebook predictions/cmb_anomalies_explained.ipynb
-```
-
 ---
 
 ## 📚 Key Papers & References
